@@ -6,6 +6,6 @@
 ## T8 V1.7
 ![T81 7](https://user-images.githubusercontent.com/46219895/56294764-e1207700-612b-11e9-9100-34300f7cd3b8.jpg)
 ## T8 V1.3
-![T8 1 3](https://user-images.githubusercontent.com/46219895/56294808-f4cbdd80-612b-11e9-866f-b421845826ce.jpg)
+![T8 1 3](https://github.com/newbie71/TTGO-ESP32/blob/master/image/T8%201.3.jpg?raw=true)
 ## T8 V1.1
 ![T8_V1 1](https://user-images.githubusercontent.com/46219895/56294832-03b29000-612c-11e9-8f2b-21d6b598ac88.jpg)
